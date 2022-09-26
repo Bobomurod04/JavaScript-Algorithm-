@@ -46,14 +46,7 @@
 // console.log(str.split(1, 3));
 // console.log(Array.from(str));
 
-// function multiTable( numb ) {
-//   result = '';
-//   for(let i = 0; i <= 10; i++) {
-//     result = result + `${numb} * ${i} = ${i*numb}${i == 10 ? '' : '\n'}`;
-//   }
-//   // return result;
-// }
-//   console.log(multiTable(7));
+
 
 for(let i = 1; i <= 10; i++) {
   for(let j = 0; j <= 10; j++) {
